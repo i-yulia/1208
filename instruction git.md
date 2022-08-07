@@ -1,4 +1,3 @@
-instruction.md
 # Начало работы с git
 
 ## Команды Git
